@@ -1,5 +1,5 @@
 
-    document.getElementById('whatsapp-button').href = 'https://wa.me/1234567890'; 
+    document.getElementById('whatsapp-button').href = 'https://wa.me/1343234890'; 
 
 
-    document.getElementById('line-button').href = 'https://line.me/ti/p/yourlineid'; 
+    document.getElementById('line-button').href = 'https://line.me/ti/p/y234234eid'; 
